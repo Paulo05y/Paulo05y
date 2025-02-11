@@ -16,7 +16,7 @@
 
 ![VisitorCount](https://profile-counter.glitch.me/{Paulo05y}/count.svg)
 
-📫 Como entrar em contato comigo: [Instagram](https://www.instagram.com/in/@_paulo05y/)
+📫 Como entrar em contato comigo: [Instagram](https://www.instagram.com/in/_paulo05y/)
 
 😄 Pronomes: ele/dele
 
