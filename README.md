@@ -1,6 +1,6 @@
 ### Olá, eu sou Matheus👋
 
-🔭 <strong>Sou uma pessoa que gosta de está na frente das telas. gosto de jogar, inclusive em console, em ps5 e por aí vai. Tenho vontade de aprender a criar um jogo algo dia e se deus quiser vou conseguir realizar minha vontade.</strong>
+🔭 <strong>Sou uma pessoa que gosta de está na frente das telas. gosto de jogar, inclusive em console, em ps5 e por aí vai. Tenho vontade de aprender a criar um jogo algum dia e se deus quiser vou conseguir realizar minha vontade.</strong>
 
 - 💬 Pergunte-me sobre: <strong>Jogos de console</strong>
 - 🌱 Eu estou atualmente aprendendo <strong>Análise e desenvolvimento de sistema</strong>
