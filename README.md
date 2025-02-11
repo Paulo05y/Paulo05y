@@ -1,6 +1,12 @@
 ### Olá, eu sou Matheus👋
 
-🔭 <strong>Sou uma pessoa que gosta de está na frente das telas. gosto de jogar, inclusive em console, em ps5 e por aí vai. Tenho vontade de aprender a criar um jogo algum dia e se deus quiser vou conseguir realizar minha vontade.</strong>
+![header](https://capsule-render.vercel.app/api?text=.&fontColor=ffffff&fontSize=40&fontAlign=40&height=250&section=head&color=gradient)
+
+<p align='center'>
+  <strong>ADS</strong>, <strong>PERNAMBUCO</strong>.
+</p>
+
+🔭 <strong>Sou uma pessoa que gosta de estar na frente das telas. gosto de jogar, inclusive em console, em ps5 e por aí vai. Tenho vontade de aprender a criar um jogo algum dia e se deus quiser vou conseguir realizar minha vontade.</strong>
 
 - 💬 Pergunte-me sobre: <strong>Jogos de console</strong>
 - 🌱 Eu estou atualmente aprendendo <strong>Análise e desenvolvimento de sistema</strong>
